@@ -1,4 +1,4 @@
-var bint=require("./bint")
+var bint=require("bint")
 var next={"2":"3"}
 
 exports.factors=factors
